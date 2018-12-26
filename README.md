@@ -1,4 +1,4 @@
-# rollingpin
+# RollingiPin ![alt text](logo.svg "Rollingpin Logo")
 Tool for converting sql files to Liquibase formatted sql changelogs
 ## Goals
 * Read RDBMS change deployment .sql scrips
