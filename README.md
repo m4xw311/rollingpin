@@ -1,4 +1,4 @@
-# RollingPin <img src="logo.svg" alt="RollingPin" title="RollingPin" width="150" height="100" />
+# RollingPin <img src="logo.svg" alt="RollingPin" title="RollingPin" width="50" height="50" />
 Tool for converting sql files to Liquibase formatted sql changelogs
 ## Goals
 * Read RDBMS change deployment .sql scrips
