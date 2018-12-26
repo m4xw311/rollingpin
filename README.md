@@ -1,4 +1,4 @@
-# RollingPin ![](logo.svg | width=100)
+# RollingPin ![](logo.svg){:height="50%" width="50%"}
 Tool for converting sql files to Liquibase formatted sql changelogs
 ## Goals
 * Read RDBMS change deployment .sql scrips
